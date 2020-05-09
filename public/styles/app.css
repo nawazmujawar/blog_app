@@ -1,0 +1,11 @@
+i.icon{
+    font-size: 2em;
+    /* 2em means two time bigger than parent */
+}
+
+.container.main{
+    margin-top: 7em;
+}
+#delete{
+    display: inline;
+}
